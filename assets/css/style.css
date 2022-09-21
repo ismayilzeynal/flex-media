@@ -160,11 +160,12 @@ h3{
 
 .info-img{
     width: 260px;
+    height: 206px;
 }
 
 .info-img img{
     max-width: 200px;
-    max-height: 100% ;
+    height: 100%;
 }
 
 .info-title-and-description{
@@ -182,6 +183,7 @@ h3{
 .info-description p{
     margin: 0;
     font-size: 16px;
+    width: 80%;
 }
 
 .info-more p{
